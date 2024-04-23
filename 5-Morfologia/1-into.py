@@ -7,6 +7,42 @@ v_dependentes = ["artigo", "conjunção", "preposição", "pronomes átonos"] # 
 v_presas = ["afixos", "radical", "desinências", "vogal temática"]
 Vocabulos = [v_livres, v_dependentes, v_presasa]
 
+Morfemas = Vocabulos
+
+Lexical = [
+    "Radical"
+]
+
+Derivacional = [
+    "Afixos",
+    "Prefixo",
+    "Sufixo",
+]
+
+Flexional = [
+    "Desinência"
+]
+
+Morfemas = [
+    Lexical,
+    Derivacional,
+    Flexional
+]
+
+
+Estrutura = [
+    Morfemas
+    "Vogal temática",
+    "Vogal/Consoante de ligação",
+]
+
+Formacao = [
+    "Derivação",
+    "Composição",
+    "Justaposição",
+    "Aglutinação",
+]
+
 
 Classes = [
     "Substantivo",
