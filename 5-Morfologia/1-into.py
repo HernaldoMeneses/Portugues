@@ -59,3 +59,16 @@ Classes = [
 
 ]
 
+Classes_Palavras = {
+    "Substantivo":"Nomear",
+    "Adjetivo":"Qualificar",
+    "Artigo":"Determinar",
+    "Numeral":"Quantificar",
+    "Pronome":"Substituir",
+    "Verbo":"Agir",
+    "Advérbio":"Condicionar",
+    "Preposição":"Ligar",
+    "Conjunção":"Unir",
+    "Interjeição":"Intergir",
+    "P.Denotativas":"Denotar",
+}
